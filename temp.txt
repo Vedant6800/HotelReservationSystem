@@ -1,0 +1,2 @@
+Occupied	101
+Available	102
